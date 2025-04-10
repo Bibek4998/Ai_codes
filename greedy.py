@@ -1,4 +1,4 @@
-# Wrrite a python program to implement Greedy Best First Search algorithm.
+# Write a python program to implement Greedy First Search algorithm.
 import heapq
 def greedy_best_first_search(graph, heuristics, start, goal):
     open_set = []
